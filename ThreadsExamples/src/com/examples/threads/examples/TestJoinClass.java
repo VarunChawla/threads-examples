@@ -1,4 +1,4 @@
-package com.examples.threads;
+package com.examples.threads.examples;
 
 public class TestJoinClass extends Thread {
 	public TestJoinClass(String name)

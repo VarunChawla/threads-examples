@@ -1,4 +1,4 @@
-package com.examples.threads;
+package com.examples.threads.examples;
 
 public class ThreadExampleOfCreation {
 	public static void main(String args[]) {
